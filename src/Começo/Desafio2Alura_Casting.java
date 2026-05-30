@@ -1,3 +1,5 @@
+package Começo;
+
 public class Desafio2Alura_Casting {
     static void main() {
     /* Declare uma variável do tipo double e uma variável do tipo int.

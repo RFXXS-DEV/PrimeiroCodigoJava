@@ -1,3 +1,5 @@
+package Começo;
+
 public class Desafio1Alura_MédiaSimples {
     static void main() {
          /* Crie um programa que realize

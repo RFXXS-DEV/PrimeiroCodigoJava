@@ -1,3 +1,5 @@
+package Começo;
+
 public class Desafio6Alura_Desconto {
     static void main() {
         /* Declare uma variável do tipo double precoOriginal. Atribua um valor em reais a essa variável,

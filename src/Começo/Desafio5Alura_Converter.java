@@ -1,3 +1,5 @@
+package Começo;
+
 public class Desafio5Alura_Converter {
     static void main() {
         /* Declare uma variável do tipo double valorEmDolares. Atribua um valor em dólares a essa variável.

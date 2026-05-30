@@ -1,3 +1,5 @@
+package Começo;
+
 public class Desafio3Alura_Char {
     static void main() {
         /* Declare uma variável do tipo char (letra) e uma variável do tipo String (palavra).
