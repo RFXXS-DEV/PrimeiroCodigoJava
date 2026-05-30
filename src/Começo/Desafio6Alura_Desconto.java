@@ -2,7 +2,7 @@ package Começo;
 
 public class Desafio6Alura_Desconto {
     static void main() {
-        /* Declare uma variável do tipo double precoOriginal. Atribua um valor em reais a essa variável,
+        /* Declare uma variável do tipo double precoOriginal. Atribua um valor em reais Loop essa variável,
         representando o preço original de um produto. Em seguida, declare uma variável do tipo double
         percentualDesconto e atribua um valor percentual de desconto ao produto
         (por exemplo, 10 para 10%). Calcule o valor do desconto em reais, aplique-o ao preço original

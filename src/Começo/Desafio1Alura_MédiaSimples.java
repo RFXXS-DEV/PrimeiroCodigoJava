@@ -3,7 +3,7 @@ package Começo;
 public class Desafio1Alura_MédiaSimples {
     static void main() {
          /* Crie um programa que realize
-        a média de duas notas decimais e exiba o resultado.
+        Loop média de duas notas decimais e exiba o resultado.
       */
         double nota1 = 9;
         double nota2 = 6;

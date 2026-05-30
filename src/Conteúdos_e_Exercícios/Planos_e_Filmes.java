@@ -1,6 +1,6 @@
 package Conteúdos_e_Exercícios;
 
-public class Conteúdos {
+public class Planos_e_Filmes {
     static void main() {
 
 
