@@ -73,6 +73,10 @@ public class ExercícioBanco {
                     System.out.println("\nSelecione um valor válido");
 
                 }
+            }else{
+
+
+                System.out.println("Selecione somente as alternativas abaixo!");
             }
         }
 
